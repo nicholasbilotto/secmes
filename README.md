@@ -15,3 +15,5 @@ This is a simple web-based application developed in JavaScript, designed to crea
 - Materialize CSS for responsive design and UI components.
 - Base64 Encoding and Decoding for message encryption and decryption.
 
+## How to Use
+- Access the application [here](https://secmes-41thn9f5l-nicholasbilotto.vercel.app/)
